@@ -16,6 +16,7 @@ function About() {
           padding:5
         }}>
         We're on a mission to make
+        jjjjjjj
 building better e-commerce site with unrivalled speed and ease.
         </Typography>
       </Paper>
