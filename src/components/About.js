@@ -17,6 +17,7 @@ function About() {
         }}>
         We're on a mission to make
 building better e-commerce site with unrivalled speed and ease.
+Govinda govinda gooooooooovinda
         </Typography>
       </Paper>
 
